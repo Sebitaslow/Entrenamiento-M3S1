@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-Descripción breve de tu proyecto: ¿qué hace y para qué sirve?
+Este proycto nos muestra las bases de la sitaxis de JavaScript lo que nos permite entrenar estas habilidades de logica 
 
 ## Instalación
 
@@ -17,6 +17,8 @@ Descripción breve de tu proyecto: ¿qué hace y para qué sirve?
 
 ¡Las contribuciones son bienvenidas!  
 Por favor, abre un issue o haz un pull request.
+
+¡Has el reto de mejorarlo!
 
 ## Licencia
 
