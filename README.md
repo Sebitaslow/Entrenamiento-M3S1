@@ -13,15 +13,6 @@ Descripción breve de tu proyecto: ¿qué hace y para qué sirve?
    cd tu-repositorio
    ```
 
-## Uso
-
-Explica cómo ejecutar o utilizar tu proyecto.  
-Por ejemplo:
-
-```
-node sistema-interactivo mejorar.js
-```
-
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas!  
